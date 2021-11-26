@@ -2,7 +2,7 @@ html {
   scroll-behavior: smooth;
 }
 .align-right{
-    background-color: #ffffff;    
+    background-color: #f2f4f;    
 }
 h1 {
   color:#000080;
@@ -125,6 +125,7 @@ table{
     height:30%;
 }
 .rounded img{
+    margin-top: 10px;
     width:200px;
     height:200px;
     border-radius: 50%;
